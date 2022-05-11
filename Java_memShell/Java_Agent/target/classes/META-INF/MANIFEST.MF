@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Can-Retransform-Classes: true
+Agent-Class: com.java.agentmain.instrumentation.transformer.Java_Agent_agentmain_transform_Filter
+

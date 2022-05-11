@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/Tomcat_Serialize/src/main/java/Echo/Tomcat_Echo.java" />
+      <file url="file://$PROJECT_DIR$/Tomcat_Serialize/src/main/java/Echo/Tomcat_Echo_Response.java" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Java_Agent_SpringBoot" />
+        <module name="SpringMVC_WEBB" />
+        <module name="Tomcat_Servlet" />
+        <module name="Java_Hello" />
+        <module name="Spring_Interceptor" />
+        <module name="Tomcat_Serialize" />
+        <module name="Spring_Controller" />
+        <module name="SpringMVC_Interceptor" />
+        <module name="Tomcat_Filter" />
+        <module name="Spring" />
+        <module name="SpringMVC_Controller" />
+        <module name="Java_JSP" />
+        <module name="Java_Agent" />
+        <module name="SpringBoot_Controller" />
+        <module name="Tomcat_Listener" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Java_Agent_SpringBoot" options="-parameters" />
+      <module name="Spring" options="-parameters" />
+      <module name="SpringBoot_Controller" options="-parameters" />
+      <module name="Spring_Controller" options="-parameters" />
+      <module name="Tomcat_Listener" options="" />
+    </option>
+  </component>
+</project>
