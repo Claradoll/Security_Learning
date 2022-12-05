@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringMVC_Controller:war exploded">
+    <output-path>$PROJECT_DIR$/SpringMVC_Controller/target/SpringMVC_Controller</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>SpringMVC_Controller</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringMVC_Controller" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.3.19" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.19" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.19" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.19" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.19" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.19" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.19" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.3.19" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/SpringMVC_Controller/target/SpringMVC_Controller/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="SpringMVC_Controller/web/Web" />
+    </root>
+  </artifact>
+</component>

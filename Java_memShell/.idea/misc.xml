@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Java_JSP" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring_Interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC_Controller" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC_Interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC_WEBB" />
+    <file type="web" url="file://$PROJECT_DIR$/Tomcat_Filter" />
+    <file type="web" url="file://$PROJECT_DIR$/Tomcat_Listener" />
+    <file type="web" url="file://$PROJECT_DIR$/Tomcat_Serialize" />
+    <file type="web" url="file://$PROJECT_DIR$/Tomcat_Servlet" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot_Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/Java_Agent_SpringBoot/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredPathMasks">
+      <list>
+        <option value="Tomca" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8.0_65" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
