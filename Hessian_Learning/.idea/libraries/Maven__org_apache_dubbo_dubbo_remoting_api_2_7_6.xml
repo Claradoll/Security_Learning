@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.dubbo:dubbo-remoting-api:2.7.6">
+    <CLASSES>
+      <root url="jar://Y:/Software/java_jar/.m/repository/org/apache/dubbo/dubbo-remoting-api/2.7.6/dubbo-remoting-api-2.7.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://Y:/Software/java_jar/.m/repository/org/apache/dubbo/dubbo-remoting-api/2.7.6/dubbo-remoting-api-2.7.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://Y:/Software/java_jar/.m/repository/org/apache/dubbo/dubbo-remoting-api/2.7.6/dubbo-remoting-api-2.7.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

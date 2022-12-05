@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/Hessian/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/Hessian/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-actuator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-autoconfigure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-autoconfigure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-compatible" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-compatible/actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-compatible/actuator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-compatible/autoconfigure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-compatible/autoconfigure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/auto-configure-samples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/auto-configure-samples/consumer-sample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/auto-configure-samples/consumer-sample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/auto-configure-samples/provider-sample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/auto-configure-samples/provider-sample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/dubbo-registry-nacos-samples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/dubbo-registry-nacos-samples/consumer-sample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/dubbo-registry-nacos-samples/consumer-sample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/dubbo-registry-nacos-samples/provider-sample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/dubbo-registry-nacos-samples/provider-sample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/dubbo-registry-zookeeper-samples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/dubbo-registry-zookeeper-samples/consumer-sample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/dubbo-registry-zookeeper-samples/consumer-sample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/dubbo-registry-zookeeper-samples/provider-sample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/dubbo-registry-zookeeper-samples/provider-sample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/externalized-configuration-samples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/externalized-configuration-samples/consumer-sample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/externalized-configuration-samples/consumer-sample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/externalized-configuration-samples/provider-sample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/externalized-configuration-samples/provider-sample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-spring-boot-project-2.7.6/dubbo-spring-boot-samples/sample-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo_Learning/dubbo-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo_Learning/dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo_Learning/dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo_Learning/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo_Learning/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba:dubbo-registry-nacos:2.7.6">
+    <CLASSES>
+      <root url="jar://Y:/Software/java_jar/.m/repository/com/alibaba/dubbo-registry-nacos/2.7.6/dubbo-registry-nacos-2.7.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://Y:/Software/java_jar/.m/repository/com/alibaba/dubbo-registry-nacos/2.7.6/dubbo-registry-nacos-2.7.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://Y:/Software/java_jar/.m/repository/com/alibaba/dubbo-registry-nacos/2.7.6/dubbo-registry-nacos-2.7.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
